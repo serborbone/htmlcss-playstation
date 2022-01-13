@@ -16,3 +16,29 @@
   font-size: 18px;
   color: #000;
 }
+
+/* JUMBOTRON */
+
+.ms_jumbotron {
+  background-image: url('img/jumbo-bg.png ');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 760px;
+}
+
+.ms_container-jumbo {
+  width: 95%;
+  margin: auto;
+  height: 100%;
+}
+
+.ms_col-jumbo {
+  max-width: 20%;
+  height: 100%;
+  padding-bottom: 65px;
+}
+
+.ms_returnal-logo img {
+  max-width: 60%;
+}

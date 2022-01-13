@@ -1,5 +1,18 @@
-.ms_head-row {
+
+/* ROW LOGO SONY */
+
+.ms_sony-wrap {
   height: 50px;
   background-color: black;
-  color: #fff;
+}
+.ms_img-sony {
+  height: 40%;
+  margin-right: 12px;
+}
+
+/* SEARCH NAVBAR */
+
+.ms_search a {
+  font-size: 18px;
+  color: #000;
 }

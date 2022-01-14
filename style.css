@@ -67,6 +67,17 @@
   color: #147DD2;
 }
 
-.ms_subt-play {
+.ms_subt-play-t {
   color: #737373;
+}
+
+/* PlayStation 5 info */
+
+.ms_play5-mt {
+  margin-top: 100px;
+}
+
+.ms_subt-play-b {
+  color: #737373;
+  width: 91%;
 }

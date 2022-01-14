@@ -16,6 +16,10 @@
 
 /* SEARCH NAVBAR */
 
+.ms_m-top-nav {
+  margin-top: 50px;
+}
+
 .ms_search a {
   font-size: 18px;
   color: #000;
@@ -29,6 +33,7 @@
   background-repeat: no-repeat;
   background-position: center;
   height: 760px;
+  margin-top: 126px;
 }
 
 .ms_col-jumbo {
@@ -80,4 +85,25 @@
 .ms_subt-play-b {
   color: #737373;
   width: 91%;
+}
+
+/* Sezione Accessori PS5 */
+.ms_wrap-w {
+  width: 90%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.ms_name-item {
+  font-size: 16px;
+}
+
+.ms_border-b-act {
+  border-bottom: 2px solid #147DD2;
+  cursor: pointer;
+}
+
+.ms_border-b:hover {
+  border-bottom: 2px solid #147DD2;
+  cursor: pointer;
 }

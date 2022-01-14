@@ -55,3 +55,18 @@
   padding: 3px;
   cursor: pointer;
 }
+
+/* Section PLAYSTATION 5 */
+
+.ms_play-5 {
+  margin-top: 120px;
+}
+
+.ms_mini-title {
+  font-size: 14px;
+  color: #147DD2;
+}
+
+.ms_subt-play {
+  color: #737373;
+}

@@ -157,5 +157,20 @@
 
 .ms_card-body .fa-trademark {
   font-size: 8px;
-  vertical-align: top;
+  vertical-align: super;
+}
+
+/* Section PS4 */
+
+.ms_play-4 {
+  margin-top: 70px;
+}
+
+.ms_title-ps4 .fa-registered{
+  font-size: 15px;
+  vertical-align: super;
+}
+
+.ms_card-ps4-txt {
+  color: #737373;
 }

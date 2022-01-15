@@ -55,10 +55,17 @@
 /* Thumbnail */
 
 .ms_thumb img {
-  border: 2px solid #147DD2;
   border-radius: 20px;
   padding: 3px;
   cursor: pointer;
+}
+
+.ms_thumb img:hover {
+  border: 2px solid #147DD2;
+}
+
+.ms_border-f-act img {
+  border: 2px solid #147DD2;
 }
 
 /* Section PLAYSTATION 5 */
@@ -95,7 +102,12 @@
 }
 
 .ms_name-item {
-  font-size: 16px;
+  font-size: 15.5px;
+}
+
+.ms_name-item .fa-trademark {
+  font-size: 8px;
+  vertical-align: top;
 }
 
 .ms_border-b-act {
@@ -121,4 +133,29 @@
 
 .ms_col-game-two {
   height: 100%;
+}
+
+/* SEZIONE Nuove Uscite */
+
+.ms_new-game {
+  background-color: #1F1F1F;
+}
+
+/* Card gioco */
+
+.ms_game-card {
+  background-color: #1F1F1F !important;
+}
+
+.ms_game-card img {
+  border-radius: 25px;
+}
+
+.ms_card-body h5 {
+  font-size: 14px;
+}
+
+.ms_card-body .fa-trademark {
+  font-size: 8px;
+  vertical-align: top;
 }

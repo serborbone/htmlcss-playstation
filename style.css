@@ -28,7 +28,7 @@
 /* JUMBOTRON */
 
 .ms_jumbotron {
-  background-image: url('img/jumbo-bg.png ');
+  background-image: url('img/jumbo-bg.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -42,11 +42,11 @@
   padding-bottom: 65px;
 }
 
-.ms_returnal-logo img {
+.ms_game-logo img {
   max-width: 65%;
 }
 
-.ms_h1-jumbo {
+.ms_title-game {
   font-size: 2.5em;
 }
 
@@ -106,4 +106,19 @@
 .ms_border-b:hover {
   border-bottom: 2px solid #147DD2;
   cursor: pointer;
+}
+
+/* Sezione Gioco 2 */
+
+.ms_game-two {
+  background-image: url('img/it-takes-two-hero-banner-desktop.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 690px;
+  margin-top: 30px;
+}
+
+.ms_col-game-two {
+  height: 100%;
 }

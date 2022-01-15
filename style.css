@@ -174,3 +174,20 @@
 .ms_card-ps4-txt {
   color: #737373;
 }
+
+/* Sezione PlayStation PLUS */
+
+.ms_ps-plus {
+  background-color: #BEBCBB;
+  min-height: 245px;
+  margin-top: 50px;
+}
+
+.ms_plus-img img {
+  max-width: 65%;
+}
+
+.ms_btn-play-plus {
+  background-color: #D9DADC !important;
+  color: #0069D9 !important;
+}

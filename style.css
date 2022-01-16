@@ -204,3 +204,28 @@
   background-color: #161C3B;
   margin-top: 70px;
 }
+
+/* FOOTER */
+
+.ms_footer {
+  background-color: #00439C;
+  min-height: 500px;
+  font-size: 14px;
+}
+
+/* Logo PLayStation FOOTER TOP */
+
+.ms_logo-ps-foot {
+  width: 100px;
+}
+
+.ms_globe-foot {
+  width: 18px;
+  margin-right: 5px;
+}
+
+/* Logo SIE Footer Bottom*/
+
+.ms_logo-sie-foot {
+  width: 130px ;
+}

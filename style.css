@@ -183,7 +183,7 @@
   margin-top: 50px;
 }
 
-.ms_plus-img img {
+.ms_col-img img {
   max-width: 65%;
 }
 
@@ -195,5 +195,12 @@
 /* SEZIONE PlayStation STORE */
 
 .ms_mt-store {
+  margin-top: 70px;
+}
+
+/* Sezione PLAYSTATION NOW */
+
+.ms_ps-now {
+  background-color: #161C3B;
   margin-top: 70px;
 }

@@ -79,7 +79,7 @@
   color: #147DD2;
 }
 
-.ms_subt-play-t {
+.ms_subt-sect {
   color: #737373;
 }
 
@@ -190,4 +190,10 @@
 .ms_btn-play-plus {
   background-color: #D9DADC !important;
   color: #0069D9 !important;
+}
+
+/* SEZIONE PlayStation STORE */
+
+.ms_mt-store {
+  margin-top: 70px;
 }

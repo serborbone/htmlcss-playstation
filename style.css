@@ -53,14 +53,21 @@
 
 /* Thumbnail */
 
+.ms_thumb:hover {
+  margin-top: 17px;
+}
+
 .ms_thumb img {
   border-radius: 20px;
   padding: 3px;
   cursor: pointer;
 }
 
+/* Hover su img */
+
 .ms_thumb img:hover {
   border: 2px solid #147DD2;
+  box-shadow: 0px 10px 5px #c3c3c3;
 }
 
 .ms_border-f-act img {

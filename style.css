@@ -37,7 +37,6 @@
 }
 
 .ms_col-jumbo {
-  max-width: 20%;
   height: 100%;
   padding-bottom: 65px;
 }
@@ -144,7 +143,7 @@
 /* Card gioco */
 
 .ms_game-card {
-  background-color: #1F1F1F !important;
+  background-color: #1F1F1F;
 }
 
 .ms_game-card img {
@@ -188,8 +187,8 @@
 }
 
 .ms_btn-play-plus {
-  background-color: #D9DADC !important;
-  color: #0069D9 !important;
+  background-color: #D9DADC ;
+  color: #0069D9 ;
 }
 
 /* SEZIONE PlayStation STORE */
